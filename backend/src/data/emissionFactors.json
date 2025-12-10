@@ -1,0 +1,9 @@
+{
+  "car_petrol": 0.192,
+  "car_diesel": 0.171,
+  "bus": 0.105,
+  "train": 0.041,
+  "plane": 0.255,
+  "bike": 0,
+  "walk": 0
+}
